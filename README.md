@@ -1,5 +1,11 @@
 This is a tutorial-based project from https://daveceddia.com/react-practice-projects/
 
+This app was deployed with Heroku connecting with Github repo
+
+Preview it Here: hhttps://daniels-metronome.herokuapp.com/
+
+**************************************
+
 <!-- ---------------------- -->
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
